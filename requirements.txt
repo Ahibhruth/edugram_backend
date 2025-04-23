@@ -60,6 +60,7 @@ python-fasthtml
 python-multipart
 python-socketio
 PyYAML
+PyMuPDF
 regex
 requests
 rsa
