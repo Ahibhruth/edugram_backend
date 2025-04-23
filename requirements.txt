@@ -161,7 +161,6 @@ python-pptx
 pytils
 pyttsx3
 pytz
-pywin32
 pyxnat
 PyYAML
 rdflib
