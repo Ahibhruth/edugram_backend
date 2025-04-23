@@ -61,6 +61,7 @@ python-engineio
 python-fasthtml
 python-multipart
 python-socketio
+python-pptx
 PyMuPDF
 PyYAML
 regex
