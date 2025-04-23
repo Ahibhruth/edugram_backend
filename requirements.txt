@@ -45,8 +45,10 @@ networkx
 nltk
 numpy
 oauthlib
+opencv-python
 packaging
 paho-mqtt
+pydub
 proto-plus
 protobuf
 pyasn1
@@ -59,8 +61,8 @@ python-engineio
 python-fasthtml
 python-multipart
 python-socketio
-PyYAML
 PyMuPDF
+PyYAML
 regex
 requests
 rsa
@@ -70,6 +72,7 @@ simple-websocket
 six
 sniffio
 soupsieve
+SpeechRecognition
 sqlite-minutils
 sqlparse
 starlette
@@ -89,3 +92,4 @@ whitenoise
 Werkzeug
 whisper
 wsproto
+ffmpeg-python
