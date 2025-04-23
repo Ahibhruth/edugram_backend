@@ -85,4 +85,5 @@ uvicorn
 watchfiles
 websockets
 Werkzeug
+whitenoise
 wsproto
