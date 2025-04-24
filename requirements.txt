@@ -13,7 +13,6 @@ docx
 Django
 django-cors-headers
 djangorestframework
-exceptions
 fastapi
 fastcore
 fastlite
