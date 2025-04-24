@@ -9,6 +9,7 @@ certifi
 charset-normalizer
 click
 colorama
+docx
 Django
 django-cors-headers
 djangorestframework
